@@ -1,0 +1,44 @@
+.learn{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkslategrey;
+    line-height: 1.5em;
+    margin: 8px;
+}
+.learn li{
+    list-style: square;
+}
+.container{
+    margin-top: %;
+    margin-left: 5%;
+}
+.p-box{
+    border: 3px solid white;
+    background-color: transparent;
+    width: 30%;
+    float: left;
+    margin-left: 5px;
+    height: 20em;
+    padding: 10px;
+
+}
+.p-box h3{
+    text-align: center;
+}
+
+.p-box p{
+    line-height: 1.25em;
+    text-align: justify;
+}
+footer{
+    color: white;
+    background-color: black;
+    height: 1.5em;
+    margin-top: 30%;
+}
+footer p{
+    text-align: center;
+}
+#button{
+    margin: 100%
+    text-align: ;
+}
